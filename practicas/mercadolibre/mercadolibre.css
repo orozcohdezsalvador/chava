@@ -1,0 +1,54 @@
+body{
+	background-color: lightgray;
+}
+section{
+	align-items: center;
+}
+
+h3{
+	text-align: center;
+}
+
+.amarillo{
+	border: 110px solid yellow;
+	margin: -50px;
+	height: 30px;
+	background-color: yellow;
+}
+
+.caja{
+	border: 10px solid white;
+	background-color:white;
+	display: block;    
+	width: 550px;	
+    margin-left: auto;
+    margin-right: auto;
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px grey;	
+}
+
+.boton{
+	background-color: #24a0ed;
+	border: 10px solid #24a0ed;
+	color:white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;    
+	border-radius: 5px;	
+}
+
+#textoazul{
+	color:#24a0ed;
+	font-weight: bold;
+	text-align: center;
+	margin: 15px 0 15px 0;
+}
+
+.footer{
+	background-color: white;
+	border: 20px solid white;
+	display: block;
+	text-align: center;	
+	padding: 1em;
+    margin-top: 600px;
+}
